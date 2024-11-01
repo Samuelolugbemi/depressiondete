@@ -10,4 +10,4 @@ streamlit_authenticator
 secrets
 charset_normalizer
 stream
-pyOpenSSL
+OpenSSL
